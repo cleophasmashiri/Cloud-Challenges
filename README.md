@@ -4,6 +4,7 @@
 
 <details>
   <summary>My solution...</summary>
+  
  ```
 
 import aws from 'aws-sdk';
