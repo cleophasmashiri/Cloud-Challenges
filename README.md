@@ -1,6 +1,6 @@
 # Aws related challenges
 
-### Challenge: Write, Delete and Read images to AWS S3.
+### Challenge: Write, Delete and Read images to AWS S3 and send emails with SES.
 
 <details>
   <summary>My solution...</summary>
