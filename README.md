@@ -1,6 +1,9 @@
 # Aws related challenges
 
-### Challenge: Write, Delete and Read images to AWS S3 and send emails with SES.
+### Challenge: AWS S3 and SES with Nodejs 
+<p>
+Write, Delete and Read images to AWS S3, and send emails with SES .
+</p>
 
 <details>
   <summary>My solution...</summary>
