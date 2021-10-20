@@ -137,7 +137,12 @@ export const sendEmail = async (req, res) => {
 
 </details>
 
+
 <br>
+
+### AWS Certified Developer Challenges
+
+[AWS Certified Developer Challenges](https://github.com/cleophasmashiri/aws-cert-dev)
 
 
 
